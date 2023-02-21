@@ -11,7 +11,7 @@ The code defines two functions - merge() and mergeSort() - which handle the merg
 
 - [Input](#input)
 
-- [Output Used](#output)
+- [Output](#output)
 
 - [License](#license)
 
