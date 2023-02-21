@@ -43,7 +43,7 @@ The `merge()` function merges two sorted sub-arrays into a single sorted array, 
 
 ## License
 
-This code is released under the MIT License. See LICENSE.txt for more information.
+This code is released under the MIT License. See LICENSE.md for more information.
 
 ## Questions
 
